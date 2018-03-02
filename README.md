@@ -5,15 +5,6 @@ Notas do curso CSS: um passo adiante
 
  ## Aulas CSS um passo adiante
 
-### [Introdução](01.md)
-
-* Apresentação
-* O que diz Harry Roberts, Google Developer Expert
-* Dica de Jonathan Snook, criador de SMACSS
-* Pré-requisitos
-* Avisos gerais
-* Quem é você? :-)
-
 
 ### [Revisão CSS](02.md)
 * Introdução à revisão de CSS
@@ -22,7 +13,7 @@ Notas do curso CSS: um passo adiante
 * Evitando seletores superqualificados
 * Simulado 1: Especificidade CSS
 * Revisão CSS - Material de referência
-* Conclusão da revisão de CSS
+
 
 
 
@@ -37,10 +28,6 @@ Notas do curso CSS: um passo adiante
 * SMACSS - Módulo
 * SMACSS - Estado
 * SMACSS - Tema
-* SMACSS na prática
-* Questionário 1: SMACSS
-* SMACSS - Considerações finais
-* SMACSS - Conclusão
 
 ## [BEM](05.md)
 * BEM - Introdução
